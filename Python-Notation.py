@@ -1157,7 +1157,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075"
+  passwd="****"
 )
 
 print(mydb)
@@ -1170,7 +1170,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075"
+  passwd="****"
 )
 
 mycursor = mydb.cursor()
@@ -1186,7 +1186,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1201,7 +1201,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1217,7 +1217,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1233,7 +1233,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1253,7 +1253,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1285,7 +1285,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1302,7 +1302,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1318,7 +1318,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1333,7 +1333,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1353,7 +1353,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1371,7 +1371,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1392,7 +1392,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
@@ -1409,7 +1409,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="7075",
+  passwd="****",
   database="test"
 )
 mycursor = mydb.cursor()
